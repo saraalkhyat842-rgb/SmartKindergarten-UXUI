@@ -9,8 +9,8 @@ Graduation project for Digital Egypt Pioneers – UI/UX design of kindergarten t
 - A simple and easy-to-use interface suitable for all users.
 - 
 👥 Team Members
-- **Mamdouh Hamdan** – Leader + Documentation & Time Management
-- **Ahmed Mohamed El Awady** – User Research (Interviews, Personas, Analysis)
+- **Ahmed Mohamed El Awady** – Leader + Documentation & Time Management
+- **Mamdouh Hamdan** – User Research (Interviews, Personas, Analysis)
 - **Mohamed Magdy** – UX Designer (User Flow, Wireframes, Prototyping)
 - **Sara Abdel Moneim** – UI Designer (Visual Design, Style Guide, High-Fidelity Prototype)
 
@@ -27,7 +27,7 @@ Graduation project for Digital Egypt Pioneers – UI/UX design of kindergarten t
 
 | 1 | Idea Selection + Brainstorming | All Members |
 
-| 2 | User + Personas | Ahmed Mohamed El-Awady |
+| 2 | User + Personas | Mamdouh Hamdan |
 
 | 3 | User Flow + Wireframes | Mohamed Magdy |
 
@@ -37,4 +37,4 @@ Graduation project for Digital Egypt Pioneers – UI/UX design of kindergarten t
 
 | 6 | User Testing + Improvements | All Members |
 
-| 7 | Documentation + Final Presentation | Mamdouh Hamdan + Sara Abdel Moneim |
+| 7 | Documentation + Final Presentation | Ahmed Mohamed El Awady + Sara Abdel Moneim |
