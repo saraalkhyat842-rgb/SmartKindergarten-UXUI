@@ -30,9 +30,15 @@ Graduation project for Digital Egypt Pioneers – UI/UX design of kindergarten t
 | Week | | Responsible |
 
 | 1 | Brainstorming + Idea Selection | All Members |
+
 | 2 | User Research + Personas | Mamdouh Hamdan |
+
 | 3 | Information Architecture + User Flows + Wireframes (Lo-fi) | Ahmed Mohamed El Awady |
+
 | 4 | UI Design System + Key Screens | Sara Abdel Moneim |
+
 | 5 | Wireframes (Mid-fi) + Prototype v1 | Ahmed Mohamed El Awady |
+
 | 6 | UI Screens Production + Prototype v2 | Mohamed Magdy + Sara Abdel Moneim |
+
 | 7 | Usability Testing + Documentation + Final Presentation | All Members |
