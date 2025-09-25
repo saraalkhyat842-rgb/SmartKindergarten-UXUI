@@ -42,3 +42,5 @@ Graduation project for Digital Egypt Pioneers – UI/UX design of kindergarten t
 | 6 | UI Screens Production + Prototype v2 | Mohamed Magdy + Sara Abdel Moneim |
 
 | 7 | Usability Testing + Documentation + Final Presentation | All Members |
+
+https://drive.google.com/drive/folders/11g_vKJ4aGwoOeTjR60VYmMDEBZpknMGx?usp=sharing
