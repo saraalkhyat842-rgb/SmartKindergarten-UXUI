@@ -1,8 +1,8 @@
-# Kidely -UXUI
+# Kidoo -UXUI
 Graduation project for Digital Egypt Pioneers – UI/UX design of kindergarten tracking app
 
 -🎯 Project Idea
-- "Kidely" is an application that helps parents monitor their children's progress and development at the nursery through:
+- "Kidoo" is an application that helps parents monitor their children's progress and development at the nursery through:
 - Organized monthly reports.
 - Photos of daily activities.
 - Notes and notifications from teachers.
